@@ -1,0 +1,25 @@
+{
+  "name": "rn-resumablejs",
+  "version": "1.0.0",
+  "description": "If you are using resumableJs for your web project and already created back-end support resumableJs, then this one is for you in your react-native project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baotoan1905/rn-resumablejs.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "resumable",
+    "js"
+  ],
+  "author": "Toan Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baotoan1905/rn-resumablejs/issues"
+  },
+  "homepage": "https://github.com/baotoan1905/rn-resumablejs#readme"
+}
